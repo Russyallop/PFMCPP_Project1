@@ -59,85 +59,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
+//  Noun: loudspeaker
 //  action 1:
-
+loudspeaker.makesSound();
 //  action 2:
-
+loudpeaker.makesHiss();
 //  action 3:
- 
+loudspeaker.makesCrackle();
 //  2)
-//  Noun:
+//  Noun: juno60
 //  action 1:
-
+juno60.makesSineSound();
 //  action 2:
-
+juno60.makesPolyphonicSound();
 //  action 3:
- 
+juno60.gathersDust(); 
 //  3)
-//  Noun:
+//  Noun: photoFrame
 //  action 1:
-
+photoFrame.reflectsLight();
 //  action 2:
-
+photoFrame.facesOutward();
 //  action 3:
- 
+ photoFrame.gathersDust();
 //  4)
-//  Noun:
+//  Noun: dysonVacuum
 //  action 1:
-
+dysonVacuum.sucks();
 //  action 2:
-
+dysonVacuum.sucksMax();
 //  action 3:
- 
+dysonVacuum.usesPower(); 
 //  5)
-//  Noun:
+//  Noun:printer  
 //  action 1:
-
+printer.scan();
 //  action 2:
-
+printer.print();
 //  action 3:
- 
+printer.copy(); 
 //  6)
-//  Noun:
+//  Noun: tap
 //  action 1:
-
+tap.coldWater();
 //  action 2:
-
+tap.hotWater();
 //  action 3:
- 
+tap.drips(); 
 //  7)
-//  Noun:
+//  Noun: oven
 //  action 1:
-
+oven.bakes();
 //  action 2:
-
+oven.grills();
 //  action 3:
- 
+oven.fanBakes(); 
 //  8)
-//  Noun:
+//  Noun: microwave
 //  action 1:
-
+microwave.heats();
 //  action 2:
-
+microwave.defrosts();
 //  action 3:
- 
+microwave.beeps(); 
 //  9)
-//  Noun:
+//  Noun: dog
 //  action 1:
-
+dog.barks();
 //  action 2:
-
+dog.sits();
 //  action 3:
- 
+dog.shits(); 
 //  10)
-//  Noun:
+//  Noun: bus
 //  action 1:
-
+bus.pullsIn();
 //  action 2:
-
+bus.pullsOut();
 //  action 3:
- 
+bus.drivesStraight(); 
 
 
 #endif
